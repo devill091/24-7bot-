@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "sumesh02.enderman.cloud",
-    "port": 45276,
+    "ip": "sumes02.aternos.me",
+    "port": 25223,
     "version": "1.20.1",
     "try-creative": false
   },
